@@ -17,7 +17,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Hello Vite + React!</p>
+        <p>Hello Signals + React!</p>
         <p>
           <button onClick={() => count.value++}>
             count is: {count.value}
@@ -32,11 +32,11 @@ function App() {
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://github.com/preactjs/signals"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn Preact Signals
           </a>
           {" | "}
           <a
