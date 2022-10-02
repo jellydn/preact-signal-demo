@@ -10,6 +10,8 @@
 
 ## ✨ [Demo](https://react-signal-demo.productsway.com/)
 
+<img width="1706" alt="image" src="https://user-images.githubusercontent.com/870029/193440269-4b753000-9cf9-4c82-9c89-0e5859d18d9a.png">
+
 ## Install
 
 ```sh
