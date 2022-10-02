@@ -679,7 +679,7 @@
   resolved "https://registry.yarnpkg.com/@preact/signals-core/-/signals-core-1.2.1.tgz#ef3ef1a1d02381b1227d80ead7688f381264891d"
   integrity sha512-aqzRMNFU1hoQyP4Kb1ldJrUTCnA9vqPDa7qHEQzHJ3upnBOcC2pjmvjAuTqGuY4AVTtUkCQV0FvOCuIQQ2hSdA==
 
-"@preact/signals-react@^1.1.1":
+"@preact/signals-react@1.1.1":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@preact/signals-react/-/signals-react-1.1.1.tgz#8c77e86bc94dcd7f58143e06b6d7564ee79e9585"
   integrity sha512-U5HNWBt4q5pmsZjDOuVcz3OXLQtaBMMSErnTHFohOFQClBqHlVD/hmhayEEO38I9iU71kofhw2ngeWso/GsVMw==
