@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 [![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
 
-> Manage state with style in every framework
+> Simple demo with Preact Signal for React app 
 
 [![ITMan - Tech #26 - (P)React Signals - Manage state with style in every framework [Vietnamese]](https://i.ytimg.com/vi/-wQ4qm88tUU/hqdefault.jpg)](https://www.youtube.com/watch?v=-wQ4qm88tUU)
 
@@ -15,6 +15,12 @@
 ```sh
 yarn install
 ```
+
+## Built with
+
+- New-Web-App cli https://github.com/jellydn/new-web-app
+- [Preact Signals](https://github.com/preactjs/signals) Manage state with style in every framework
+  - [React](https://github.com/preactjs/signals/blob/main/packages/react/README.md#installation)
 
 ## Usage
 
