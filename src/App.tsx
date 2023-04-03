@@ -1,3 +1,4 @@
+import React from "react";
 import { computed, effect, signal, useComputed } from "@preact/signals-react";
 
 import "./App.css";
@@ -19,16 +20,10 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hello Signals + React!</p>
         <p>
-          <button onClick={() => count.value++}>
-            count is: {count.value}
-          </button>
+          <button onClick={() => count.value++}>count is: {count.value}</button>
         </p>
-        <p>
-          Double: {double.value}
-        </p>
-        <p>
-          Triple: {triple.value}
-        </p>
+        <p>Double: {double.value}</p>
+        <p>Triple: {triple.value}</p>
         <p>
           <a
             className="App-link"
