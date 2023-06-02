@@ -1,4 +1,8 @@
-lockfileVersion: '6.0'
+lockfileVersion: '6.1'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
 
 dependencies:
   '@preact/signals-react':
@@ -37,7 +41,7 @@ devDependencies:
     specifier: 8.37.0
     version: 8.37.0
   eslint-plugin-react:
-    specifier: ^7.32.2
+    specifier: 7.32.2
     version: 7.32.2(eslint@8.37.0)
   husky:
     specifier: 8.0.3
